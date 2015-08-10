@@ -1,4 +1,4 @@
-# ansible-nginx
+# ansible-locust
 
 [locustio](http://locust.io/) is an open source python based load testing tool.
 
