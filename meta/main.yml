@@ -1,0 +1,12 @@
+---
+galaxy_info:
+  author: "Kinnan Kwok"
+  company: "TELUS digital"
+  description: "An open-source, distributed, python based load testing tool."
+  license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+  categories:
+    - monitoring

@@ -1,0 +1,6 @@
+---
+- name: Install Locustio
+  pip: name=locustio
+
+- name: Install BeautifulSoup4
+  pip: name=beautifulsoup4
